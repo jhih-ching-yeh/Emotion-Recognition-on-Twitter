@@ -16,6 +16,9 @@ You have to clean the data by doing some pre-processing first. Then, apply featu
     - Create submition csv
 5. Association Rule by Result with Hashtag, Emoji and Bert Model
 
+#### Language
+Python
+
 #### Reference
 https://www.kaggle.com/c/dm2021-lab2-hw2/
 
