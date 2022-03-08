@@ -1,5 +1,5 @@
 # Emotion Recognition on Twitter
-### 13th/100+ (2022)
+### 13th/100 (2022)
 
 #### Description
 In this competition, we provide a dataset which was crawled from Twitter, and we have already labeled the emotion for these tweets by some specific hashtags in the original text. There are 8 classes (or say emotions) in our dataset: anger, anticipation, disgust, fear, sadness, surprise, trust, and joy.
