@@ -19,6 +19,9 @@ You have to clean the data by doing some pre-processing first. Then, apply featu
 #### Language
 Python
 
+#### Acknowledgements
+We thank IDEA Lab for providing this dataset, as well as evanyu and thisray for making all of this possible.
+
 #### Reference
 https://www.kaggle.com/c/dm2021-lab2-hw2/
 
