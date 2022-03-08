@@ -1,28 +1,11 @@
-# DM2021-Lab2-HW2
-## Part 1 is at DM2021-Lab2-Homework.ipynb
-#### Table of Contents
-1. Data preparation
-    * Exercise 1 (Take home)
-2. Feature engineering
-    * Exercise 2 (Take home)
-3. Model
-4. Results evaluation
-    * Exercise 3 (Take home)
-    * Exercise 4 (Take home)
-    * Exercise 5 (Take home)
-5. Other things you could try
-6. Deep Learning
-    * Exercise 6 (Take home)
-7. Word to Vector
-    * Exercise 7 (Take home)
-8. Clustering
-9. High-dimension Visualization
-    * Exercise 8 (Take home)
+# Emotion Recognition on Twitter
+## 13th/100+ (2022)
 
+#### Description
+In this competition, we provide a dataset which was crawled from Twitter, and we have already labeled the emotion for these tweets by some specific hashtags in the original text. There are 8 classes (or say emotions) in our dataset: anger, anticipation, disgust, fear, sadness, surprise, trust, and joy.
+You have to clean the data by doing some pre-processing first. Then, apply feature engineering or any other data mining technique you have or haven't learned in the Data Mining course. The final goal is to learn a model that is able to predict the emotion behind each tweet.
 
-## Part 2, Part 3 are at Kaggle_Competition.ipynb
-https://www.kaggle.com/c/dm2021-lab2-hw2/
-#### Table of Contents
+#### Algorithm
 1. Read Data
 2. Data Exploration: Hashtag>>Emotion
 3. Data Exploration: Emoji>>Emotion
@@ -32,3 +15,9 @@ https://www.kaggle.com/c/dm2021-lab2-hw2/
     - Bert Model
     - Create submition csv
 5. Association Rule by Result with Hashtag, Emoji and Bert Model
+
+#### Reference
+https://www.kaggle.com/c/dm2021-lab2-hw2/
+
+#### Keyword
+Data Mining, Natural Language Processing, AI
